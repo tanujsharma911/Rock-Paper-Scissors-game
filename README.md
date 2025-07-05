@@ -1,6 +1,7 @@
 # Rock Paper Scissors Game (C++)
 
 This repository contains a simple Rock Paper Scissors game written in C++.
+The main purpose of this is to learn git and cpp.
 
 ## Features
 
